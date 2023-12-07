@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="images">
+    <file>assets/logo.svg</file>
+    <file>assets/placeholder_logo.png</file>
+    <file>assets/login_background.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>assets/icons/checkbox_checked_icon.svg</file>
+    <file>assets/icons/checkbox_unchecked_icon.svg</file>
+    <file>assets/icons/search_icon.svg</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>assets/Roboto/Roboto-Black.ttf</file>
+    <file>assets/Roboto/Roboto-BlackItalic.ttf</file>
+    <file>assets/Roboto/Roboto-Bold.ttf</file>
+    <file>assets/Roboto/Roboto-BoldItalic.ttf</file>
+    <file>assets/Roboto/Roboto-Italic.ttf</file>
+    <file>assets/Roboto/Roboto-Light.ttf</file>
+    <file>assets/Roboto/Roboto-LightItalic.ttf</file>
+    <file>assets/Roboto/Roboto-Medium.ttf</file>
+    <file>assets/Roboto/Roboto-MediumItalic.ttf</file>
+    <file>assets/Roboto/Roboto-Regular.ttf</file>
+    <file>assets/Roboto/Roboto-Thin.ttf</file>
+    <file>assets/Roboto/Roboto-ThinItalic.ttf</file>
+  </qresource>
+</RCC>
