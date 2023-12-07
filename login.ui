@@ -53,7 +53,7 @@
    <item>
     <widget class="QFrame" name="frame">
      <property name="styleSheet">
-      <string notr="true">background-image: url(:/images/assets/login_background.png);</string>
+      <string notr="true">background-image: url(:/images/assets/login_background.png)</string>
      </property>
      <property name="frameShape">
       <enum>QFrame::NoFrame</enum>
